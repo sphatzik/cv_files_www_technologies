@@ -1,0 +1,98 @@
+
+body{
+	font-family:"Arial Narrow;
+	font-size:10pt;
+	color:black;
+	padding:0px;
+
+	}
+
+
+.europassinfo{
+		
+	display:none;	/* not to display the europass info. */	
+}
+
+
+.newstyle{
+	display:block;
+	font-family: Courier New;
+		
+}
+.name2{
+		
+	display:none;
+}
+
+h1{
+	display:block;
+	font-size:200%;
+	left:200px;	
+	top:50px;
+	display:block;
+	text-align:center;	
+}
+
+h2{
+	display:block;
+	font-size:150%;
+	left:200px;	
+	top:50px;
+	display:block;
+	text-align:center;
+}
+
+h3{
+	font-size:150%;
+	text-align:center;
+}
+
+h5{
+	font-size:150%;
+	left:200px;	
+	top:50px;
+	display:block;
+	text-align:center;
+}
+
+
+.info_data2{
+	display:block;
+	font-family: Courier New;
+	position:relative;
+	text-align:center;
+	top:-10px;
+	color:black;	
+}
+.info_fancy{
+	
+	display:none;
+	
+}
+.info_space{
+	
+	font-family: Courier New;
+	position:relative;
+	text-align:center;
+	top:-15px;
+	color:black;
+}
+
+.info1{
+	font-family: Courier New;
+	position:relative;
+	font-size:105%;
+	text-align:center;	
+	top:-20px;
+	color:black;	
+}
+
+
+.name { 
+
+	font-family: Courier New;
+	position:relative;	
+	top:10px;
+	text-align:center;
+}
+

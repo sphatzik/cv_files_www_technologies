@@ -1,0 +1,98 @@
+
+body{
+	font-family:"Arial Narrow;
+	font-size:10pt;
+	color:white;
+	padding:0px;
+	background-image: url("computer.jpg");
+	background-size:100%;
+	margin:auto;
+	
+	}
+
+
+.europassinfo{
+		
+	display:none;	/* not to display the europass info. */	
+}
+
+.newstyle{
+	display:block;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+		
+}
+
+.info_fancy{
+	display:block;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+	position:relative;
+	margin:auto;
+	text-align:center;
+	display:block;
+	
+}
+.name2{
+		
+	display:none;
+}
+
+
+h1{
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size:200%;	
+	text-align:top;	
+}
+
+h2{
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+	position:relative;
+	right:240px;
+	font-size:100%;
+	display:block;
+	text-align:center;
+	top:-20px;
+	display:none;
+}
+
+h3{
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+	position:relative;
+	right:240px;
+	font-size:100%;
+	display:block;
+	text-align:center;
+	top:-20px;
+	display:none;
+}
+
+h5{
+	font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
+	position:relative;
+	right:240px;
+	font-size:100%;
+	display:block;
+	text-align:center;
+	top:-20px;
+	display:none;
+}
+
+
+.info_data2{
+	display:none;
+}
+
+.info_space{
+	
+	display:none;
+}
+
+.info1{
+	display:none;	
+}
+
+
+.name { 
+
+	display:none;
+}
+
